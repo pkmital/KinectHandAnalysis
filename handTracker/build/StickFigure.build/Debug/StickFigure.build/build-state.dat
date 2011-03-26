@@ -1,0 +1,563 @@
+TStickFigure
+v7
+r0
+t320700146.306638
+cCheck dependencies
+cCompileC build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/StickFigure.o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscBundle.o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscMessage.o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscReceiver.o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscSender.o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug/StickFigure normal i386
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004CAA7405000000000001A494
+t1286239237
+s107668
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004C23CCCC000000000000578C
+t1277414604
+s22412
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004BD2501F0000000000025B59
+t1272074271
+s154457
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glext.h
+c000000004BD2501F0000000000042ACF
+t1272074271
+s273103
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004CAA7405000000000000DB14
+t1286239237
+s56084
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004BBD2CE90000000000000DCB
+t1270689001
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/memory.h
+c000000004BBD2CE90000000000000765
+t1270689001
+s1893
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/pthread.h
+c000000004BBD2CE900000000000038F0
+t1270689001
+s14576
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A11EB240000000000003197
+t1242688292
+s12695
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/GL/gl.h
+c000000004CFE8F74000000000001235A
+t1291751284
+s74586
+i<GL/glext.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/GL/glext.h
+c000000004CFE8F74000000000005405A
+t1291751284
+s344154
+i<windows.h>
+i<stddef.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/GL/glut.h
+c000000004CFE8F7400000000000053C0
+t1291751284
+s21440
+i<windows.h>
+i<GL/gl.h>
+i<GL/glu.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/GL/wglext.h
+c000000004CFE8F740000000000007347
+t1291751284
+s29511
+i<windows.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs/glut32.lib
+c000000004C10FF84000000000001381A
+t1276182404
+s79898
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs/libOpenNI.dylib
+c000000004D3C384C00000000000DC2E8
+t1295792204
+s901864
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs/libXnVCNite.dylib
+c000000004D3C386D000000000009D8E0
+t1295792237
+s645344
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs/libXnVNite.dylib
+c000000004D3C386D00000000001A7BA0
+t1295792237
+s1735584
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs/libnimCodecs.dylib
+c000000004D3C384C00000000000807A0
+t1295792204
+s526240
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs/libnimMockNodes.dylib
+c000000004D3C384C0000000000075B28
+t1295792204
+s482088
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs/libnimRecorder.dylib
+c000000004D3C384C0000000000057F40
+t1295792204
+s360256
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp
+c000000004D6D36A40000000000009CFF
+t1299003044
+s40191
+i<XnOpenNI.h>
+i<XnList.h>
+i<XnCppWrapper.h>
+i<XnCodecIDs.h>
+i"glh/glh_extensions.h"
+i"glh/glh_obs.h"
+i"glh/glh_glut2.h"
+i"glh/glh_glut_text.h"
+i"ofxOsc.h"
+i<XnLog.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/libs/oscpack/include/ip/UdpSocket.h
+c000000004D39848900000000000015B8
+t1295615113
+s5560
+i"NetworkingUtils.h"
+i"IpEndpointName.h"
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/libs/oscpack/include/osc/OscOutboundPacketStream.h
+c000000004D39848900000000000013B2
+t1295615113
+s5042
+i"OscTypes.h"
+i"OscException.h"
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/libs/oscpack/include/osc/OscPacketListener.h
+c000000004D3984890000000000000A74
+t1295615113
+s2676
+i"OscReceivedElements.h"
+i"../ip/PacketListener.h"
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/libs/oscpack/include/osc/OscTypes.h
+c000000004D398489000000000000105E
+t1295615113
+s4190
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/libs/oscpack/lib/libOsc.a
+c00000000489AFAFE000000000004BDD8
+t1218116350
+s310744
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/libs/oscpack/lib/liboscpack.dylib.1.0.2
+c000000004D3984890000000000011DE8
+t1295615113
+s73192
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOsc.h
+c000000004CD2957A0000000000000650
+t1288869242
+s1616
+i"ofxOscArg.h"
+i"ofxOscMessage.h"
+i"ofxOscSender.h"
+i"ofxOscReceiver.h"
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.cpp
+c000000004CD2957A00000000000007EE
+t1288869242
+s2030
+i"ofxOscBundle.h"
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.cpp
+c000000004CD2957A000000000000162A
+t1288869242
+s5674
+i"ofxOscMessage.h"
+i<iostream>
+i<assert.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.cpp
+c000000004CD2957A00000000000017F5
+t1288869242
+s6133
+i"ofxOscReceiver.h"
+i<pthread.h>
+i<iostream>
+i<assert.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.cpp
+c000000004D39916D0000000000000DBE
+t1295618413
+s3518
+i"ofxOscSender.h"
+i"UdpSocket.h"
+i<assert.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug/StickFigure
+t1299003046
+s367620
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/StickFigure.LinkFileList
+c000000004D3DF1180000000000000327
+t1295905048
+s807
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/StickFigure.o
+t1299003045
+s464828
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscBundle.o
+t1295905049
+s193340
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscMessage.o
+t1295905050
+s162596
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscReceiver.o
+t1295905073
+s208964
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscSender.o
+t1295905074
+s139124
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/glh/glh_convenience.h
+c000000004CFE8F740000000000001504
+t1291751284
+s5380
+i<iostream>
+i<OpenGL/gl.h>
+i<GL/gl.h>
+i<glh/glh_linear.h>
+i<glh/glh_extensions.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/glh/glh_extensions.h
+c000000004D3777F600000000000021CD
+t1295480822
+s8653
+i<string.h>
+i<stdio.h>
+i<stdlib.h>
+i<windows.h>
+i<system_error>
+i<OpenGL/gl.h>
+i<OpenGL/gl.h>
+i<GL/wglext.h>
+i"glh_genext.h"
+i<OpenGL/glext.h>
+i<OpenGL/glext.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/glh/glh_genext.h
+c000000004CFE8F740000000000044AF4
+t1291751284
+s281332
+i<GL/gl.h>
+i<GL/glext.h>
+i<GL/wglext.h>
+i<string.h>
+i<GL/glx.h>
+i<GL/glxext.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/glh/glh_glut2.h
+c000000004D37754E0000000000004253
+t1295480142
+s16979
+i<string.h>
+i<algorithm>
+i<list>
+i<GLUT/glut.h>
+i<glh/glh_interactors.h>
+i<glh/glh_convenience.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/glh/glh_glut_text.h
+c000000004CFE8F74000000000000112A
+t1291751284
+s4394
+i<glh/glh_obs.h>
+i<glh/glh_text.h>
+i<GLUT/glut.h>
+i<GL/glut.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/glh/glh_interactors.h
+c000000004CFE8F7400000000000012A1
+t1291751284
+s4769
+i<math.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/glh/glh_linear.h
+c000000004CFE8F7400000000000092B6
+t1291751284
+s37558
+i<memory.h>
+i<math.h>
+i<assert.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/glh/glh_obs.h
+c000000004D3777CB0000000000004095
+t1295480779
+s16533
+i<windows.h>
+i<OpenGL/gl.h>
+i<OpenGL/glext.h>
+i<OpenGL/gl.h>
+i<OpenGL/glext.h>
+i"glh/glh_extensions.h"
+i"glh/glh_linear.h"
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/glh/glh_text.h
+c000000004CFE8F74000000000000122D
+t1291751284
+s4653
+i<string>
+i<windows.h>
+i<OpenGL/gl.h>
+i<GL/gl.h>
+i<glh/glh_obs.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/ofxOsc/libs/oscpack/include/ip/IpEndpointName.h
+c000000004D3984890000000000000B3F
+t1295615113
+s2879
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/ofxOsc/libs/oscpack/include/ip/NetworkingUtils.h
+c000000004D39848900000000000007DB
+t1295615113
+s2011
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/ofxOsc/libs/oscpack/include/ip/PacketListener.h
+c000000004D39848900000000000006D8
+t1295615113
+s1752
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/ofxOsc/libs/oscpack/include/osc/OscException.h
+c000000004D3984890000000000000816
+t1295615113
+s2070
+i<exception>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/ofxOsc/libs/oscpack/include/osc/OscReceivedElements.h
+c000000004D39848900000000000034E7
+t1295615113
+s13543
+i"OscTypes.h"
+i"OscException.h"
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/ofxOsc/libs/oscpack/include/osc/OscTypes.h
+c000000004D398489000000000000105E
+t1295615113
+s4190
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/ofxOsc/src/ofxOscArg.h
+c000000004D3985620000000000000D78
+t1295615330
+s3448
+i<iostream.h>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/ofxOsc/src/ofxOscBundle.h
+c000000004CD2957A00000000000009AE
+t1288869242
+s2478
+i<vector>
+i"ofxOscMessage.h"
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/ofxOsc/src/ofxOscMessage.h
+c000000004CD2957A0000000000000CC8
+t1288869242
+s3272
+i"ofxOscArg.h"
+i<vector>
+i<string>
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/ofxOsc/src/ofxOscReceiver.h
+c000000004D3985660000000000000C8C
+t1295615334
+s3212
+i<deque>
+i<windows.h>
+i<pthread.h>
+i"OscTypes.h"
+i"OscPacketListener.h"
+i"UdpSocket.h"
+i"ofxOscMessage.h"
+
+N/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/ofxOsc/src/ofxOscSender.h
+c000000004CD2957A000000000000090B
+t1288869242
+s2315
+i<string>
+i"OscTypes.h"
+i"OscOutboundPacketStream.h"
+i"ofxOscBundle.h"
+i"ofxOscMessage.h"
+
+N/usr/include/ni/XnCodecIDs.h
+c000000004D52EB5C0000000000000851
+t1297279836
+s2129
+
+N/usr/include/ni/XnCppWrapper.h
+c000000004D52EB5C0000000000024CA6
+t1297279836
+s150694
+
+N/usr/include/ni/XnList.h
+c000000004D52EB5C00000000000054ED
+t1297279836
+s21741
+
+N/usr/include/ni/XnLog.h
+c000000004D52EB5C0000000000004C83
+t1297279836
+s19587
+
+N/usr/include/ni/XnOpenNI.h
+c000000004D52EB5C0000000000000A05
+t1297279836
+s2565
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320700146#320700146#0(0"0(0#1#0"8625401632#0"0#
+
+CCompileC build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/StickFigure.o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s320695844.744010
+e320695845.874817
+r1
+xCompileC
+xbuild/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/StickFigure.o
+x/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695844#320695845#0(2833"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h:33,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOsc.h:32,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp:67:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp:53:/usr/include/ni/XnCppWrapper.h: In member function 'XnStatus xn::NodeInfo::GetInstance(xn::ProductionNode&) const':/usr/include/ni/XnCppWrapper.h:4612: warning: unused variable 'nRetVal'/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp: In function 'void StopCapture()':/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp:411: warning: 'Unref' is deprecated (declared at /usr/include/ni/XnCppWrapper.h:1017)/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp: In function 'void drawStickPoint(XnSkeletonJointPosition, XnPoint3D)':/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp:575: warning: unused variable 'fX'/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp:576: warning: unused variable 'fY'/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp: In function 'void display()':/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp:1402: warning: format '%d' expects type 'int', but argument 6 has type 'XnUInt64'/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp:1402: warning: format '%d' expects type 'int', but argument 7 has type 'XnUInt64'/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp:1406: warning: format '%d' expects type 'int', but argument 5 has type 'XnUInt64'/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp:1406: warning: format '%d' expects type 'int', but argument 6 has type 'XnUInt64'9(22@354"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.320695845#479#451#5(7@118"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695845#18446744073709551615#0#0(6@96"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695844#67#0#67#0#0"0(7@122"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOsc.h320695845#18446744073709551615#0#0(6@100"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOsc.h310562042#32#0#32#0#0"0(7@125"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h320695845#18446744073709551615#0#0(6@103"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h317308130#33#0#33#0#0"0(7@94"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h320695845#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#31#0#31#0#0"0(13@438"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h320695845#18446744073709551615#0#0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#0"0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#10"#warning *0(22@25"Unused variable 'nRetVal'320695845#1169#72#2(7@118"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695845#18446744073709551615#0#0(6@96"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695844#53#0#53#0#0"0(13@59"Unused variable 'nRetVal' in /usr/include/ni/XnCppWrapper.h320695845#18446744073709551615#0#0(6@30"/usr/include/ni/XnCppWrapper.h318972636#4612#0#4612#0#0"0(6@30"/usr/include/ni/XnCppWrapper.h318972636#4612#0#4612#0#19"unused variable '*'0(22@71"'Unref' is deprecated (declared at /usr/include/ni/XnCppWrapper.h:1017)320695845#1373#183#0(6@96"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695844#411#0#411#0#33"'*' is deprecated (declared at *)0(22@20"Unused variable 'fX'320695845#1725#132#0(6@96"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695844#575#0#575#0#19"unused variable '*'0(22@20"Unused variable 'fY'320695845#1857#132#0(6@96"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695844#576#0#576#0#19"unused variable '*'0(22@66"Format '%d' expects type 'int', but argument 6 has type 'XnUInt64'320695845#2117#179#0(6@96"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695844#1402#0#1402#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 7 has type 'XnUInt64'320695845#2296#179#0(6@96"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695844#1402#0#1402#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 5 has type 'XnUInt64'320695845#2475#179#0(6@96"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695844#1406#0#1406#0#56"format '*' expects type '*', but argument * has type '*'0(22@66"Format '%d' expects type 'int', but argument 6 has type 'XnUInt64'320695845#2654#179#0(6@96"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp320695844#1406#0#1406#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#96"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp8625102944#2114"    cd /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-generated-files.hmap -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-own-target-headers.hmap -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-all-target-headers.hmap -iquote /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-project-headers.hmap -F/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug/include -I.. -I../Data -I../GL -I../glh -I../Libs -I../ofxOsc -I../StickFigure -I../ofxOsc/libs -I../ofxOsc/src -I../ofxOsc/libs/oscpack -I../ofxOsc/libs/oscpack/include -I../ofxOsc/libs/oscpack/lib -I../ofxOsc/libs/oscpack/include/ip -I../ofxOsc/libs/oscpack/include/osc -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/DerivedSources/i386 -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/DerivedSources -I. -I.. -I/usr/include/nite -I/usr/include/ni -c /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../StickFigure.cpp -o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/StickFigure.o0#
+
+CCompileC build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscBundle.o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s317597848.587367
+e317597849.823590
+r1
+xCompileC
+xbuild/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscBundle.o
+x/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h:33,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h:33,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.h:33,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.cpp:29:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+lSLF07#2@116"Compile /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.cpp317597848#317597849#0(1082"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h:33,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h:33,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.h:33,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.cpp:29:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.1(22@354"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.317597849#631#451#6(7@130"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.cpp317597849#18446744073709551615#0#0(6@108"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.cpp310562042#29#0#29#0#0"0(7@128"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.h317597849#18446744073709551615#0#0(6@106"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.h310562042#33#0#33#0#0"0(7@129"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h317597849#18446744073709551615#0#0(6@107"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h310562042#33#0#33#0#0"0(7@125"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h317597849#18446744073709551615#0#0(6@103"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h317308130#33#0#33#0#0"0(7@94"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h317597849#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#31#0#31#0#0"0(13@438"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h317597849#18446744073709551615#0#0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#0"0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#10"#warning *0(0#0#108"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.cpp8605746112#2127"    cd /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-generated-files.hmap -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-own-target-headers.hmap -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-all-target-headers.hmap -iquote /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-project-headers.hmap -F/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug/include -I.. -I../Data -I../GL -I../glh -I../Libs -I../ofxOsc -I../StickFigure -I../ofxOsc/libs -I../ofxOsc/src -I../ofxOsc/libs/oscpack -I../ofxOsc/libs/oscpack/include -I../ofxOsc/libs/oscpack/lib -I../ofxOsc/libs/oscpack/include/ip -I../ofxOsc/libs/oscpack/include/osc -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/DerivedSources/i386 -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/DerivedSources -I. -I.. -I/usr/include/nite -I/usr/include/ni -c /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.cpp -o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscBundle.o0#
+
+CCompileC build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscMessage.o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s317597849.823702
+e317597850.757571
+r1
+xCompileC
+xbuild/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscMessage.o
+x/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h:33,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h:33,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.cpp:29:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+lSLF07#2@117"Compile /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.cpp317597849#317597850#0(950"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h:33,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h:33,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.cpp:29:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.1(22@354"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.317597849#499#451#5(7@131"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.cpp317597849#18446744073709551615#0#0(6@109"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.cpp310562042#29#0#29#0#0"0(7@129"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h317597849#18446744073709551615#0#0(6@107"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h310562042#33#0#33#0#0"0(7@125"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h317597849#18446744073709551615#0#0(6@103"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h317308130#33#0#33#0#0"0(7@94"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h317597849#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#31#0#31#0#0"0(13@438"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h317597849#18446744073709551615#0#0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#0"0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#10"#warning *0(0#0#109"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.cpp8605974816#2129"    cd /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-generated-files.hmap -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-own-target-headers.hmap -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-all-target-headers.hmap -iquote /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-project-headers.hmap -F/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug/include -I.. -I../Data -I../GL -I../glh -I../Libs -I../ofxOsc -I../StickFigure -I../ofxOsc/libs -I../ofxOsc/src -I../ofxOsc/libs/oscpack -I../ofxOsc/libs/oscpack/include -I../ofxOsc/libs/oscpack/lib -I../ofxOsc/libs/oscpack/include/ip -I../ofxOsc/libs/oscpack/include/osc -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/DerivedSources/i386 -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/DerivedSources -I. -I.. -I/usr/include/nite -I/usr/include/ni -c /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.cpp -o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscMessage.o0#
+
+CCompileC build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscReceiver.o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s317597850.757753
+e317597873.751522
+r1
+xCompileC
+xbuild/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscReceiver.o
+x/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h:33,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h:33,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.h:50,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.cpp:29:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+lSLF07#2@118"Compile /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.cpp317597850#317597873#0(1086"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h:33,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h:33,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.h:50,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.cpp:29:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.1(22@354"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.317597850#635#451#6(7@132"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.cpp317597850#18446744073709551615#0#0(6@110"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.cpp310562042#29#0#29#0#0"0(7@130"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.h317597850#18446744073709551615#0#0(6@108"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.h317308134#50#0#50#0#0"0(7@129"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h317597850#18446744073709551615#0#0(6@107"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h310562042#33#0#33#0#0"0(7@125"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h317597850#18446744073709551615#0#0(6@103"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h317308130#33#0#33#0#0"0(7@94"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h317597850#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#31#0#31#0#0"0(13@438"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h317597850#18446744073709551615#0#0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#0"0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#10"#warning *0(0#0#110"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.cpp8606545408#2131"    cd /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-generated-files.hmap -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-own-target-headers.hmap -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-all-target-headers.hmap -iquote /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-project-headers.hmap -F/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug/include -I.. -I../Data -I../GL -I../glh -I../Libs -I../ofxOsc -I../StickFigure -I../ofxOsc/libs -I../ofxOsc/src -I../ofxOsc/libs/oscpack -I../ofxOsc/libs/oscpack/include -I../ofxOsc/libs/oscpack/lib -I../ofxOsc/libs/oscpack/include/ip -I../ofxOsc/libs/oscpack/include/osc -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/DerivedSources/i386 -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/DerivedSources -I. -I.. -I/usr/include/nite -I/usr/include/ni -c /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscReceiver.cpp -o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscReceiver.o0#
+
+CCompileC build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscSender.o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s317597873.751709
+e317597874.288367
+r1
+xCompileC
+xbuild/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscSender.o
+x/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h:33,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h:33,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.h:33,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.h:47,
+o                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.cpp:30:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+lSLF07#2@116"Compile /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.cpp317597873#317597874#0(1215"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h:33,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h:33,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.h:33,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.h:47,                 from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.cpp:30:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.1(22@354"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.317597873#764#451#7(7@130"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.cpp317597873#18446744073709551615#0#0(6@108"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.cpp317311213#30#0#30#0#0"0(7@128"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.h317597873#18446744073709551615#0#0(6@106"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.h310562042#47#0#47#0#0"0(7@128"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.h317597873#18446744073709551615#0#0(6@106"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscBundle.h310562042#33#0#33#0#0"0(7@129"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h317597873#18446744073709551615#0#0(6@107"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscMessage.h310562042#33#0#33#0#0"0(7@125"In file included from /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h317597873#18446744073709551615#0#0(6@103"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscArg.h317308130#33#0#33#0#0"0(7@94"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h317597873#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#31#0#31#0#0"0(13@438"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h317597873#18446744073709551615#0#0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#0"0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#10"#warning *0(0#0#108"/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.cpp8603666240#2127"    cd /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-generated-files.hmap -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-own-target-headers.hmap -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-all-target-headers.hmap -iquote /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/StickFigure-project-headers.hmap -F/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug/include -I.. -I../Data -I../GL -I../glh -I../Libs -I../ofxOsc -I../StickFigure -I../ofxOsc/libs -I../ofxOsc/src -I../ofxOsc/libs/oscpack -I../ofxOsc/libs/oscpack/include -I../ofxOsc/libs/oscpack/lib -I../ofxOsc/libs/oscpack/include/ip -I../ofxOsc/libs/oscpack/include/osc -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/DerivedSources/i386 -I/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/DerivedSources -I. -I.. -I/usr/include/nite -I/usr/include/ni -c /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/src/ofxOscSender.cpp -o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/ofxOscSender.o0#
+
+CLd /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug/StickFigure normal i386
+s320695845.875605
+e320695846.709340
+r1
+xLd
+x/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug/StickFigure
+xnormal
+xi386
+old: warning: in /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/libs/oscpack/lib/liboscpack.dylib.1.0.2, file was built for unsupported file format which is not the architecture being linked (i386)
+old: warning: in /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs/glut32.lib, file was built for unsupported file format which is not the architecture being linked (i386)
+lSLF07#2@106"Link /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug/StickFigure320695845#320695846#0(445"ld: warning: in /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/libs/oscpack/lib/liboscpack.dylib.1.0.2, file was built for unsupported file format which is not the architecture being linked (i386)ld: warning: in /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs/glut32.lib, file was built for unsupported file format which is not the architecture being linked (i386)2(22@224"In /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/libs/oscpack/lib/liboscpack.dylib.1.0.2, file was built for unsupported file format which is not the architecture being linked (i386)320695846#0#238#0(6@0"320695846#0#0#0#0#0"0(22@193"In /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs/glut32.lib, file was built for unsupported file format which is not the architecture being linked (i386)320695846#238#207#0(6@0"320695846#0#0#0#0#0"0(0#0#0"8627377376#1441"    cd /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug -L../ofxosc -L../ofxosc/libs -L../ofxosc/src -L../ofxosc/libs/oscpack -L../ofxosc/libs/oscpack/include -L../ofxosc/libs/oscpack/lib -L../ofxosc/libs/oscpack/include/ip -L../ofxosc/libs/oscpack/include/osc -L/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs -L/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/libs/oscpack/lib -F/Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug -filelist /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/StickFigure.build/Debug/StickFigure.build/Objects-normal/i386/StickFigure.LinkFileList -mmacosx-version-min=10.6 -framework GLUT -framework OpenGL /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../ofxOsc/libs/oscpack/lib/liboscpack.dylib.1.0.2 /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/../Libs/glut32.lib -lnimCodecs -lnimMockNodes -lnimRecorder -lOpenNI -lXnVCNite -lXnVNite -lOsc -o /Users/pkmital/Coding/kinect/Nite-1.3.0.18/Samples/StickFigureOSC/StickFigure/build/Debug/StickFigure0#
+

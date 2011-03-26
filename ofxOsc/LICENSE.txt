@@ -1,0 +1,4 @@
+ofxOsc absorbed from openframeworks; libraries rebuilt from oscpack for 64-bit.
+
+24/01/2011
+parag
