@@ -2,6 +2,24 @@
 #include "XnVDepthMessage.h"
 #include <XnVHandPointContext.h>
 #include <vector.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include "alglibmisc.h"
+#include "alglibinternal.h"
+#include "linalg.h"
+#include "statistics.h"
+#include "dataanalysis.h"
+#include "specialfunctions.h"
+#include "solvers.h"
+#include "optimization.h"
+#include "diffequations.h"
+#include "fasttransforms.h"
+#include "integration.h"
+#include "interpolation.h"
+
+using namespace alglib;
+
 // return 1/0 if val is within range of min/max
 #define clip(val, min, max) ((val) < (max) && (val) > (min))
 
@@ -156,7 +174,7 @@ void XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)
 	//dilate(hand_matrix, hand_matrix, Mat::ones(3,3,CV_32F));
 	cv::resize(hand_matrix, scaled_hand_matrix, cv::Size(hand_size, hand_size));
 	
-	hand_matrix = scaled_hand_matrix * 0.2 + prev_hand_matrix * 0.8;
+	hand_matrix = scaled_hand_matrix * 0.8 + prev_hand_matrix * 0.2;
 	prev_hand_matrix = hand_matrix.clone();
 	
 	dilate(hand_matrix, hand_matrix, Mat());
@@ -179,6 +197,17 @@ void XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)
 	//Canny(hand_matrix, contourMat, 0.1, 0.8);
 	cvtColor(hand_matrix, hand_matrix_img, CV_GRAY2RGB);
 	
+	
+	cv::Moments mos = cv::moments(hand_matrix_clone, true);
+	double hus[7];
+	HuMoments(mos, hus);
+	ofxOscMessage hu_msg;
+	hu_msg.setAddress("/hu");
+	for(int i = 0 ; i < 7; i++ )
+		hu_msg.addFloatArg(hus[i]);
+	sender.sendMessage(hu_msg);
+	
+	
 	vector<Point> approx;
 	
 	printf("1");
@@ -190,15 +219,54 @@ void XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)
 		
 		Mat	contourMat = Mat(contours[j]);
 		
-		/*
+		static int counter = 0;
+		counter++;
+		
+		
 		// low pass contour list:
+		FILE *fp;
+		char buf[256];
+		sprintf(buf, "frame_%d.txt", counter);
+		fp = fopen(buf, "w+");
+		
 		vector<Point> contoursCopy = contours[j];
 		for( size_t i =1; i < contours[j].size()-1; i++)
 		{
 			contours[j][i].x = contoursCopy[i-1].x*0.25 + contoursCopy[i].x*0.5 + contoursCopy[i+1].x*0.25;
 			contours[j][i].y = contoursCopy[i-1].y*0.25 + contoursCopy[i].y*0.5 + contoursCopy[i+1].y*0.25;
+			
+			fprintf(fp, "%d, %d\n", contours[j][i].x ,contours[j][i].y );
 		}
+		fclose(fp);
+		
+
+		
+		
+		
+		/*
+		void alglib::polynomialbuild(
+									 real_1d_array x,
+									 real_1d_array y,
+									 barycentricinterpolant& p);
+		
+		
+		barycentricinterpolant px, py;
+		real_1d_array t,x,y;
+		t.setlength(contours[j].size());
+		x.setlength(contours[j].size());
+		y.setlength(contours[j].size());
+		double  *t_ptr = t.getcontent();
+		double	*x_ptr = x.getcontent();
+		double	*y_ptr = y.getcontent();
+		for (size_t i = 0; i<contours[j].size(); i++) {
+			t_ptr[i] = (double)i;
+			x_ptr[i] = (double)contours[j][i].x;
+			y_ptr[i] = (double)contours[j][i].y;
+		}
+		polynomialbuild(t, x, px);
+		polynomialbuild(t, y, py);
 		*/
+		
 		approxPolyDP(contourMat, approx, arcLength(Mat(contours[j]), true)*0.019, true);
 		
 		printf("2");

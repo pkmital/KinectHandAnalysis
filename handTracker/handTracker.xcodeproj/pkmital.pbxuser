@@ -11,19 +11,20 @@
 		breakpoints = (
 			89C02DE312E9C5E6009862EC /* ofxOscSender.cpp:84 */,
 			89C02DFB12E9C871009862EC /* StickFigure.cpp:256 */,
-			890BB2FB133911A500AF7068 /* PointDrawer.cpp:104 */,
-			890BB3591339197200AF7068 /* PointDrawer.cpp:148 */,
-			890BB35B1339197500AF7068 /* PointDrawer.cpp:145 */,
-			890BB37A13391C5B00AF7068 /* PointDrawer.cpp:139 */,
-			890BB4201339385100AF7068 /* PointDrawer.cpp:179 */,
-			890BB4221339385700AF7068 /* PointDrawer.cpp:235 */,
-			890BB507133A061600AF7068 /* PointDrawer.cpp:339 */,
-			890BB5DA133A163900AF7068 /* PointDrawer.cpp:434 */,
-			890BB5DD133A168C00AF7068 /* PointDrawer.cpp:432 */,
-			890BB5E1133A16B800AF7068 /* PointDrawer.cpp:433 */,
-			890BB6B7133A676F00AF7068 /* PointDrawer.cpp:474 */,
-			890BB845133B527400AF7068 /* PointDrawer.cpp:255 */,
-			890BB871133B57E100AF7068 /* PointDrawer.cpp:456 */,
+			890BB2FB133911A500AF7068 /* PointDrawer.cpp:122 */,
+			890BB3591339197200AF7068 /* PointDrawer.cpp:166 */,
+			890BB35B1339197500AF7068 /* PointDrawer.cpp:163 */,
+			890BB37A13391C5B00AF7068 /* PointDrawer.cpp:157 */,
+			890BB4201339385100AF7068 /* PointDrawer.cpp:197 */,
+			890BB4221339385700AF7068 /* PointDrawer.cpp:303 */,
+			890BB507133A061600AF7068 /* PointDrawer.cpp:407 */,
+			890BB5DA133A163900AF7068 /* PointDrawer.cpp:502 */,
+			890BB5DD133A168C00AF7068 /* PointDrawer.cpp:500 */,
+			890BB5E1133A16B800AF7068 /* PointDrawer.cpp:501 */,
+			890BB6B7133A676F00AF7068 /* PointDrawer.cpp:542 */,
+			890BB845133B527400AF7068 /* PointDrawer.cpp:323 */,
+			890BB871133B57E100AF7068 /* PointDrawer.cpp:524 */,
+			892C57C3134CBA240020EADB /* PointDrawer.cpp:267 */,
 		);
 		codeSenseManager = 890DE0A812E7ADBA0057FCE5 /* Code sense */;
 		executables = (
@@ -98,8 +99,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 322619313;
-			PBXWorkspaceStateSaveDate = 322619313;
+			PBXPerProjectTemplateStateSaveDate = 324295575;
+			PBXWorkspaceStateSaveDate = 324295575;
 		};
 		perUserProjectItems = {
 			8900B78C12E9FB3D00D69B51 /* PBXTextBookmark */ = 8900B78C12E9FB3D00D69B51 /* PBXTextBookmark */;
@@ -109,8 +110,18 @@
 			890BB61F133A24F900AF7068 /* PBXTextBookmark */ = 890BB61F133A24F900AF7068 /* PBXTextBookmark */;
 			890BB7A3133A957500AF7068 /* PBXTextBookmark */ = 890BB7A3133A957500AF7068 /* PBXTextBookmark */;
 			890BB83F133B4F2100AF7068 /* PBXTextBookmark */ = 890BB83F133B4F2100AF7068 /* PBXTextBookmark */;
-			890BB875133B57F200AF7068 /* PBXTextBookmark */ = 890BB875133B57F200AF7068 /* PBXTextBookmark */;
-			890BB8AA133B987D00AF7068 /* PBXTextBookmark */ = 890BB8AA133B987D00AF7068 /* PBXTextBookmark */;
+			892C578A134CB1660020EADB /* PBXTextBookmark */ = 892C578A134CB1660020EADB /* PBXTextBookmark */;
+			892C57CB134CBA880020EADB /* PBXTextBookmark */ = 892C57CB134CBA880020EADB /* PBXTextBookmark */;
+			892C57CC134CBA880020EADB /* PBXTextBookmark */ = 892C57CC134CBA880020EADB /* PBXTextBookmark */;
+			892C57CD134CBA880020EADB /* PBXTextBookmark */ = 892C57CD134CBA880020EADB /* PBXTextBookmark */;
+			892C57CE134CBA880020EADB /* PBXTextBookmark */ = 892C57CE134CBA880020EADB /* PBXTextBookmark */;
+			892C57CF134CBA880020EADB /* PBXTextBookmark */ = 892C57CF134CBA880020EADB /* PBXTextBookmark */;
+			892C57D0134CBA880020EADB /* PBXTextBookmark */ = 892C57D0134CBA880020EADB /* PBXTextBookmark */;
+			892C57D3134CBA880020EADB /* PBXTextBookmark */ = 892C57D3134CBA880020EADB /* PBXTextBookmark */;
+			892C57DD134CBABB0020EADB /* PBXTextBookmark */ = 892C57DD134CBABB0020EADB /* PBXTextBookmark */;
+			892C57E1134CBC310020EADB /* PBXTextBookmark */ = 892C57E1134CBC310020EADB /* PBXTextBookmark */;
+			8997389813545DB700FB236D /* PBXTextBookmark */ = 8997389813545DB700FB236D /* PBXTextBookmark */;
+			899738A61354655500FB236D /* PBXTextBookmark */ = 899738A61354655500FB236D /* PBXTextBookmark */;
 			89C02D9312E9C0AA009862EC /* PBXTextBookmark */ = 89C02D9312E9C0AA009862EC /* PBXTextBookmark */;
 			89C02DEE12E9C6A1009862EC /* PBXTextBookmark */ = 89C02DEE12E9C6A1009862EC /* PBXTextBookmark */;
 		};
@@ -135,7 +146,7 @@
 		vrLen = 3368;
 		vrLoc = 35511;
 	};
-	890BB2FB133911A500AF7068 /* PointDrawer.cpp:104 */ = {
+	890BB2FB133911A500AF7068 /* PointDrawer.cpp:122 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -147,13 +158,13 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 104;
+		lineNumber = 122;
 		location = StickFigure;
-		modificationTime = 322663527.369122;
+		modificationTime = 324297079.274887;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	890BB3591339197200AF7068 /* PointDrawer.cpp:148 */ = {
+	890BB3591339197200AF7068 /* PointDrawer.cpp:166 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -165,13 +176,13 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 148;
+		lineNumber = 166;
 		location = StickFigure;
-		modificationTime = 322663527.369395;
+		modificationTime = 324297079.275125;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	890BB35B1339197500AF7068 /* PointDrawer.cpp:145 */ = {
+	890BB35B1339197500AF7068 /* PointDrawer.cpp:163 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -183,13 +194,13 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 145;
+		lineNumber = 163;
 		location = StickFigure;
-		modificationTime = 322663527.369605;
+		modificationTime = 324297079.275315;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	890BB37A13391C5B00AF7068 /* PointDrawer.cpp:139 */ = {
+	890BB37A13391C5B00AF7068 /* PointDrawer.cpp:157 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -201,13 +212,13 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 139;
+		lineNumber = 157;
 		location = StickFigure;
-		modificationTime = 322663527.369805;
+		modificationTime = 324297079.275504;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	890BB4201339385100AF7068 /* PointDrawer.cpp:179 */ = {
+	890BB4201339385100AF7068 /* PointDrawer.cpp:197 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -219,13 +230,13 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 179;
+		lineNumber = 197;
 		location = StickFigure;
-		modificationTime = 322663527.370035;
+		modificationTime = 324297079.27567;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	890BB4221339385700AF7068 /* PointDrawer.cpp:235 */ = {
+	890BB4221339385700AF7068 /* PointDrawer.cpp:303 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -237,9 +248,9 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 235;
+		lineNumber = 303;
 		location = StickFigure;
-		modificationTime = 322663527.370275;
+		modificationTime = 324297079.275872;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -250,7 +261,7 @@
 		path = "/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/stl_vector.h";
 		sourceTree = "<absolute>";
 	};
-	890BB507133A061600AF7068 /* PointDrawer.cpp:339 */ = {
+	890BB507133A061600AF7068 /* PointDrawer.cpp:407 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -262,9 +273,9 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 339;
+		lineNumber = 407;
 		location = StickFigure;
-		modificationTime = 322663527.370512;
+		modificationTime = 324297079.276033;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -298,7 +309,7 @@
 		vrLen = 695;
 		vrLoc = 1620;
 	};
-	890BB5DA133A163900AF7068 /* PointDrawer.cpp:434 */ = {
+	890BB5DA133A163900AF7068 /* PointDrawer.cpp:502 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -310,13 +321,13 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 434;
+		lineNumber = 502;
 		location = StickFigure;
-		modificationTime = 322663527.370725;
+		modificationTime = 324297079.276194;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	890BB5DD133A168C00AF7068 /* PointDrawer.cpp:432 */ = {
+	890BB5DD133A168C00AF7068 /* PointDrawer.cpp:500 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -328,13 +339,13 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 432;
+		lineNumber = 500;
 		location = StickFigure;
-		modificationTime = 322663527.370929;
+		modificationTime = 324297079.276355;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	890BB5E1133A16B800AF7068 /* PointDrawer.cpp:433 */ = {
+	890BB5E1133A16B800AF7068 /* PointDrawer.cpp:501 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -346,9 +357,9 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 433;
+		lineNumber = 501;
 		location = StickFigure;
-		modificationTime = 322663527.371176;
+		modificationTime = 324297079.276515;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -362,7 +373,7 @@
 		vrLen = 263;
 		vrLoc = 1468;
 	};
-	890BB6B7133A676F00AF7068 /* PointDrawer.cpp:474 */ = {
+	890BB6B7133A676F00AF7068 /* PointDrawer.cpp:542 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -374,9 +385,9 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 474;
+		lineNumber = 542;
 		location = StickFigure;
-		modificationTime = 322663527.371377;
+		modificationTime = 324297079.276687;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -407,7 +418,7 @@
 		vrLen = 1107;
 		vrLoc = 1154;
 	};
-	890BB845133B527400AF7068 /* PointDrawer.cpp:255 */ = {
+	890BB845133B527400AF7068 /* PointDrawer.cpp:323 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -419,13 +430,13 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 255;
+		lineNumber = 323;
 		location = StickFigure;
-		modificationTime = 322663527.371612;
+		modificationTime = 324297079.276852;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	890BB871133B57E100AF7068 /* PointDrawer.cpp:456 */ = {
+	890BB871133B57E100AF7068 /* PointDrawer.cpp:524 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -437,31 +448,11 @@
 		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 456;
+		lineNumber = 524;
 		location = StickFigure;
-		modificationTime = 322663527.371857;
+		modificationTime = 324297079.277014;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
-	};
-	890BB875133B57F200AF7068 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 892BC9FE1338ED570076C62A /* PointDrawer.cpp */;
-		name = "PointDrawer.cpp: 457";
-		rLen = 0;
-		rLoc = 13561;
-		rType = 0;
-		vrLen = 1443;
-		vrLoc = 12505;
-	};
-	890BB8AA133B987D00AF7068 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 892BC9FE1338ED570076C62A /* PointDrawer.cpp */;
-		name = "PointDrawer.cpp: 447";
-		rLen = 0;
-		rLoc = 13031;
-		rType = 0;
-		vrLen = 1448;
-		vrLoc = 12767;
 	};
 	890DE0A212E7ADB40057FCE5 /* StickFigure */ = {
 		isa = PBXExecutable;
@@ -552,9 +543,9 @@
 	};
 	892BC9FE1338ED570076C62A /* PointDrawer.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1025, 13842}}";
-			sepNavSelRange = "{13031, 0}";
-			sepNavVisRange = "{12767, 1448}";
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 14474}}";
+			sepNavSelRange = "{7405, 0}";
+			sepNavVisRange = "{5739, 1040}";
 		};
 	};
 	892BC9FF1338ED570076C62A /* PointDrawer.h */ = {
@@ -566,10 +557,225 @@
 	};
 	892BCA011338ED650076C62A /* main.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {866, 3372}}";
+			sepNavIntBoundsRect = "{{0, 0}, {866, 3581}}";
 			sepNavSelRange = "{5996, 0}";
-			sepNavVisRange = "{3494, 672}";
+			sepNavVisRange = "{0, 2057}";
 		};
+	};
+	892C578A134CB1660020EADB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892C578B134CB1660020EADB /* core.hpp */;
+		name = "core.hpp: 857";
+		rLen = 0;
+		rLoc = 29146;
+		rType = 0;
+		vrLen = 1301;
+		vrLoc = 28430;
+	};
+	892C578B134CB1660020EADB /* core.hpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = core.hpp;
+		path = /usr/local/include/opencv2/core/core.hpp;
+		sourceTree = "<absolute>";
+	};
+	892C5794134CB8FC0020EADB /* alglibinternal.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 138417}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1612}";
+		};
+	};
+	892C5795134CB8FC0020EADB /* alglibinternal.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 9359}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1477}";
+		};
+	};
+	892C5796134CB8FC0020EADB /* alglibmisc.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 40486}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1700}";
+		};
+	};
+	892C5797134CB8FC0020EADB /* alglibmisc.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 9232}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1501}";
+		};
+	};
+	892C5798134CB8FC0020EADB /* ap.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 116613}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1404}";
+		};
+	};
+	892C5799134CB8FC0020EADB /* ap.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 16577}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1463}";
+		};
+	};
+	892C57A3134CB8FC0020EADB /* interpolation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 57521}}";
+			sepNavSelRange = "{1828, 0}";
+			sepNavVisRange = "{1467, 790}";
+		};
+	};
+	892C57AE134CB8FC0020EADB /* stdafx.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 759}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 4}";
+		};
+	};
+	892C57C1134CBA210020EADB /* test_c.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = test_c.cpp;
+		path = /Users/pkmital/Downloads/cpp/tests/test_c.cpp;
+		sourceTree = "<absolute>";
+	};
+	892C57C3134CBA240020EADB /* PointDrawer.cpp:267 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 892BC9FE1338ED570076C62A /* PointDrawer.cpp */;
+		functionName = "XnVPointDrawer::SegmentHand(const XnPoint3D &ptHand)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 267;
+		location = StickFigure;
+		modificationTime = 324297079.277211;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	892C57CB134CBA880020EADB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892C5794134CB8FC0020EADB /* alglibinternal.cpp */;
+		name = "alglibinternal.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1612;
+		vrLoc = 0;
+	};
+	892C57CC134CBA880020EADB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892C5795134CB8FC0020EADB /* alglibinternal.h */;
+		name = "alglibinternal.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1477;
+		vrLoc = 0;
+	};
+	892C57CD134CBA880020EADB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892C5796134CB8FC0020EADB /* alglibmisc.cpp */;
+		name = "alglibmisc.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1700;
+		vrLoc = 0;
+	};
+	892C57CE134CBA880020EADB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892C5797134CB8FC0020EADB /* alglibmisc.h */;
+		name = "alglibmisc.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1501;
+		vrLoc = 0;
+	};
+	892C57CF134CBA880020EADB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892C5798134CB8FC0020EADB /* ap.cpp */;
+		name = "ap.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1404;
+		vrLoc = 0;
+	};
+	892C57D0134CBA880020EADB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892C5799134CB8FC0020EADB /* ap.h */;
+		name = "ap.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1463;
+		vrLoc = 0;
+	};
+	892C57D2134CBA880020EADB /* test_i.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = test_i.cpp;
+		path = /Users/pkmital/Downloads/cpp/tests/test_i.cpp;
+		sourceTree = "<absolute>";
+	};
+	892C57D3134CBA880020EADB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892C57C1134CBA210020EADB /* test_c.cpp */;
+		name = "test_c.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 876;
+		vrLoc = 39;
+	};
+	892C57DD134CBABB0020EADB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892C57D2134CBA880020EADB /* test_i.cpp */;
+		name = "test_i.cpp: 15";
+		rLen = 25;
+		rLoc = 358;
+		rType = 0;
+		vrLen = 1003;
+		vrLoc = 0;
+	};
+	892C57E1134CBC310020EADB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892C57A3134CB8FC0020EADB /* interpolation.h */;
+		name = "interpolation.h: 61";
+		rLen = 0;
+		rLoc = 1828;
+		rType = 0;
+		vrLen = 790;
+		vrLoc = 1467;
+	};
+	8997389813545DB700FB236D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892BC9FE1338ED570076C62A /* PointDrawer.cpp */;
+		name = "PointDrawer.cpp: 264";
+		rLen = 0;
+		rLoc = 7405;
+		rType = 0;
+		vrLen = 326;
+		vrLoc = 6791;
+	};
+	899738A61354655500FB236D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 892BC9FE1338ED570076C62A /* PointDrawer.cpp */;
+		name = "PointDrawer.cpp: 268";
+		rLen = 0;
+		rLoc = 7405;
+		rType = 0;
+		vrLen = 1053;
+		vrLoc = 5861;
 	};
 	89C02D2912E9BCC8009862EC /* UdpSocket.h */ = {
 		uiCtxt = {
@@ -686,7 +892,7 @@
 		ignoreCount = 0;
 		lineNumber = 84;
 		location = StickFigure;
-		modificationTime = 322663527.368671;
+		modificationTime = 324297079.274576;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -721,7 +927,7 @@
 		ignoreCount = 0;
 		lineNumber = 256;
 		location = StickFigure;
-		modificationTime = 322663527.368982;
+		modificationTime = 324297079.274785;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};

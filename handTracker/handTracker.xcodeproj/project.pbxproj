@@ -30,6 +30,19 @@
 		890DE0BE12E7AE780057FCE5 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 890DE0BD12E7AE780057FCE5 /* OpenGL.framework */; };
 		892BCA001338ED570076C62A /* PointDrawer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892BC9FE1338ED570076C62A /* PointDrawer.cpp */; };
 		892BCA021338ED650076C62A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892BCA011338ED650076C62A /* main.cpp */; };
+		892C57AF134CB8FC0020EADB /* alglibinternal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C5794134CB8FC0020EADB /* alglibinternal.cpp */; };
+		892C57B0134CB8FC0020EADB /* alglibmisc.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C5796134CB8FC0020EADB /* alglibmisc.cpp */; };
+		892C57B1134CB8FC0020EADB /* ap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C5798134CB8FC0020EADB /* ap.cpp */; };
+		892C57B2134CB8FC0020EADB /* dataanalysis.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C579A134CB8FC0020EADB /* dataanalysis.cpp */; };
+		892C57B3134CB8FC0020EADB /* diffequations.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C579C134CB8FC0020EADB /* diffequations.cpp */; };
+		892C57B4134CB8FC0020EADB /* fasttransforms.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C579E134CB8FC0020EADB /* fasttransforms.cpp */; };
+		892C57B5134CB8FC0020EADB /* integration.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C57A0134CB8FC0020EADB /* integration.cpp */; };
+		892C57B6134CB8FC0020EADB /* interpolation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C57A2134CB8FC0020EADB /* interpolation.cpp */; };
+		892C57B7134CB8FC0020EADB /* linalg.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C57A4134CB8FC0020EADB /* linalg.cpp */; };
+		892C57B8134CB8FC0020EADB /* optimization.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C57A6134CB8FC0020EADB /* optimization.cpp */; };
+		892C57B9134CB8FC0020EADB /* solvers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C57A8134CB8FC0020EADB /* solvers.cpp */; };
+		892C57BA134CB8FC0020EADB /* specialfunctions.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C57AA134CB8FC0020EADB /* specialfunctions.cpp */; };
+		892C57BB134CB8FC0020EADB /* statistics.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 892C57AC134CB8FC0020EADB /* statistics.cpp */; };
 		89C02D4312E9BCC8009862EC /* ofxOscBundle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 89C02D3912E9BCC8009862EC /* ofxOscBundle.cpp */; };
 		89C02D4412E9BCC8009862EC /* ofxOscMessage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 89C02D3B12E9BCC8009862EC /* ofxOscMessage.cpp */; };
 		89C02D4512E9BCC8009862EC /* ofxOscReceiver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 89C02D3D12E9BCC8009862EC /* ofxOscReceiver.cpp */; };
@@ -75,6 +88,33 @@
 		892BC9FE1338ED570076C62A /* PointDrawer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = PointDrawer.cpp; path = ../PointDrawer.cpp; sourceTree = SOURCE_ROOT; };
 		892BC9FF1338ED570076C62A /* PointDrawer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PointDrawer.h; path = ../PointDrawer.h; sourceTree = SOURCE_ROOT; };
 		892BCA011338ED650076C62A /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		892C5794134CB8FC0020EADB /* alglibinternal.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = alglibinternal.cpp; sourceTree = "<group>"; };
+		892C5795134CB8FC0020EADB /* alglibinternal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = alglibinternal.h; sourceTree = "<group>"; };
+		892C5796134CB8FC0020EADB /* alglibmisc.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = alglibmisc.cpp; sourceTree = "<group>"; };
+		892C5797134CB8FC0020EADB /* alglibmisc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = alglibmisc.h; sourceTree = "<group>"; };
+		892C5798134CB8FC0020EADB /* ap.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ap.cpp; sourceTree = "<group>"; };
+		892C5799134CB8FC0020EADB /* ap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ap.h; sourceTree = "<group>"; };
+		892C579A134CB8FC0020EADB /* dataanalysis.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = dataanalysis.cpp; sourceTree = "<group>"; };
+		892C579B134CB8FC0020EADB /* dataanalysis.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dataanalysis.h; sourceTree = "<group>"; };
+		892C579C134CB8FC0020EADB /* diffequations.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = diffequations.cpp; sourceTree = "<group>"; };
+		892C579D134CB8FC0020EADB /* diffequations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = diffequations.h; sourceTree = "<group>"; };
+		892C579E134CB8FC0020EADB /* fasttransforms.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = fasttransforms.cpp; sourceTree = "<group>"; };
+		892C579F134CB8FC0020EADB /* fasttransforms.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fasttransforms.h; sourceTree = "<group>"; };
+		892C57A0134CB8FC0020EADB /* integration.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = integration.cpp; sourceTree = "<group>"; };
+		892C57A1134CB8FC0020EADB /* integration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = integration.h; sourceTree = "<group>"; };
+		892C57A2134CB8FC0020EADB /* interpolation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = interpolation.cpp; sourceTree = "<group>"; };
+		892C57A3134CB8FC0020EADB /* interpolation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = interpolation.h; sourceTree = "<group>"; };
+		892C57A4134CB8FC0020EADB /* linalg.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = linalg.cpp; sourceTree = "<group>"; };
+		892C57A5134CB8FC0020EADB /* linalg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = linalg.h; sourceTree = "<group>"; };
+		892C57A6134CB8FC0020EADB /* optimization.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = optimization.cpp; sourceTree = "<group>"; };
+		892C57A7134CB8FC0020EADB /* optimization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = optimization.h; sourceTree = "<group>"; };
+		892C57A8134CB8FC0020EADB /* solvers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = solvers.cpp; sourceTree = "<group>"; };
+		892C57A9134CB8FC0020EADB /* solvers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = solvers.h; sourceTree = "<group>"; };
+		892C57AA134CB8FC0020EADB /* specialfunctions.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = specialfunctions.cpp; sourceTree = "<group>"; };
+		892C57AB134CB8FC0020EADB /* specialfunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = specialfunctions.h; sourceTree = "<group>"; };
+		892C57AC134CB8FC0020EADB /* statistics.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = statistics.cpp; sourceTree = "<group>"; };
+		892C57AD134CB8FC0020EADB /* statistics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = statistics.h; sourceTree = "<group>"; };
+		892C57AE134CB8FC0020EADB /* stdafx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stdafx.h; sourceTree = "<group>"; };
 		89C02D2512E9BCC8009862EC /* IpEndpointName.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IpEndpointName.h; sourceTree = "<group>"; };
 		89C02D2612E9BCC8009862EC /* NetworkingUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkingUtils.h; sourceTree = "<group>"; };
 		89C02D2712E9BCC8009862EC /* PacketListener.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PacketListener.h; sourceTree = "<group>"; };
@@ -137,6 +177,7 @@
 		08FB7794FE84155DC02AAC07 /* StickFigure */ = {
 			isa = PBXGroup;
 			children = (
+				892C5792134CB8E80020EADB /* alglib */,
 				8900B7DA12EC6FFC00D69B51 /* Libs */,
 				899DA5A512E9B896006A88CE /* ofxOsc */,
 				08FB7795FE84155DC02AAC07 /* Source */,
@@ -191,6 +232,48 @@
 			name = Libs;
 			path = ../Libs;
 			sourceTree = SOURCE_ROOT;
+		};
+		892C5792134CB8E80020EADB /* alglib */ = {
+			isa = PBXGroup;
+			children = (
+				892C5793134CB8FC0020EADB /* src */,
+			);
+			name = alglib;
+			sourceTree = "<group>";
+		};
+		892C5793134CB8FC0020EADB /* src */ = {
+			isa = PBXGroup;
+			children = (
+				892C5794134CB8FC0020EADB /* alglibinternal.cpp */,
+				892C5795134CB8FC0020EADB /* alglibinternal.h */,
+				892C5796134CB8FC0020EADB /* alglibmisc.cpp */,
+				892C5797134CB8FC0020EADB /* alglibmisc.h */,
+				892C5798134CB8FC0020EADB /* ap.cpp */,
+				892C5799134CB8FC0020EADB /* ap.h */,
+				892C579A134CB8FC0020EADB /* dataanalysis.cpp */,
+				892C579B134CB8FC0020EADB /* dataanalysis.h */,
+				892C579C134CB8FC0020EADB /* diffequations.cpp */,
+				892C579D134CB8FC0020EADB /* diffequations.h */,
+				892C579E134CB8FC0020EADB /* fasttransforms.cpp */,
+				892C579F134CB8FC0020EADB /* fasttransforms.h */,
+				892C57A0134CB8FC0020EADB /* integration.cpp */,
+				892C57A1134CB8FC0020EADB /* integration.h */,
+				892C57A2134CB8FC0020EADB /* interpolation.cpp */,
+				892C57A3134CB8FC0020EADB /* interpolation.h */,
+				892C57A4134CB8FC0020EADB /* linalg.cpp */,
+				892C57A5134CB8FC0020EADB /* linalg.h */,
+				892C57A6134CB8FC0020EADB /* optimization.cpp */,
+				892C57A7134CB8FC0020EADB /* optimization.h */,
+				892C57A8134CB8FC0020EADB /* solvers.cpp */,
+				892C57A9134CB8FC0020EADB /* solvers.h */,
+				892C57AA134CB8FC0020EADB /* specialfunctions.cpp */,
+				892C57AB134CB8FC0020EADB /* specialfunctions.h */,
+				892C57AC134CB8FC0020EADB /* statistics.cpp */,
+				892C57AD134CB8FC0020EADB /* statistics.h */,
+				892C57AE134CB8FC0020EADB /* stdafx.h */,
+			);
+			path = src;
+			sourceTree = "<group>";
 		};
 		899DA5A512E9B896006A88CE /* ofxOsc */ = {
 			isa = PBXGroup;
@@ -352,6 +435,19 @@
 				89C02D4612E9BCC8009862EC /* ofxOscSender.cpp in Sources */,
 				892BCA001338ED570076C62A /* PointDrawer.cpp in Sources */,
 				892BCA021338ED650076C62A /* main.cpp in Sources */,
+				892C57AF134CB8FC0020EADB /* alglibinternal.cpp in Sources */,
+				892C57B0134CB8FC0020EADB /* alglibmisc.cpp in Sources */,
+				892C57B1134CB8FC0020EADB /* ap.cpp in Sources */,
+				892C57B2134CB8FC0020EADB /* dataanalysis.cpp in Sources */,
+				892C57B3134CB8FC0020EADB /* diffequations.cpp in Sources */,
+				892C57B4134CB8FC0020EADB /* fasttransforms.cpp in Sources */,
+				892C57B5134CB8FC0020EADB /* integration.cpp in Sources */,
+				892C57B6134CB8FC0020EADB /* interpolation.cpp in Sources */,
+				892C57B7134CB8FC0020EADB /* linalg.cpp in Sources */,
+				892C57B8134CB8FC0020EADB /* optimization.cpp in Sources */,
+				892C57B9134CB8FC0020EADB /* solvers.cpp in Sources */,
+				892C57BA134CB8FC0020EADB /* specialfunctions.cpp in Sources */,
+				892C57BB134CB8FC0020EADB /* statistics.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
